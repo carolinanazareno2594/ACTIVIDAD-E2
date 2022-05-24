@@ -2,7 +2,7 @@
 
 ## INFORMACIÓN DEL AUTOR
 
-[![images-1-removebg-preview.png](https://i.postimg.cc/c1zrgv8K/images-1-removebg-preview.png)](https://postimg.cc/Jtb1S4xm) [![logo1-sin-fondoo.png](https://i.postimg.cc/brdXvJTD/logo1-sin-fondoo.png)](https://postimg.cc/8f8XKTxN)
+[![images-1-removebg-preview.png](https://i.postimg.cc/c1zrgv8K/images-1-removebg-preview.png)](https://postimg.cc/Jtb1S4xm) [![logo1-sin-fondooo.png](https://i.postimg.cc/9MhZVwcb/logo1-sin-fondooo.png)](https://postimg.cc/d75Lj1kZ)
 
                                        
 `Autor: CarolinaNazareno`
