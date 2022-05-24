@@ -40,9 +40,9 @@ Programa en c++ y Diagrama de flujo, que permite sumar varios números el usuari
 
 #### Funcionalidad
 
-int Nc_cc=0,Nc_c
+int Nc_cc=0,Nc_c;
 
-float Nc_n,Nc_st=0
+float Nc_n,Nc_st=0;
 
 #### Salida
 
@@ -60,7 +60,7 @@ Programa en c++ y Diagrama de flujo, que permite calcular de edad de una persona
 
 #### Funcionalidad
 
-int Nc_aa, Nc_ma, Nc_da, Nc_an, Nc_mn, Nc_dn, Nc_a, Nc_m, Nc_d
+int Nc_aa, Nc_ma, Nc_da, Nc_an, Nc_mn, Nc_dn, Nc_a, Nc_m, Nc_d;
 
 #### Salida
 
@@ -99,13 +99,13 @@ Programa en c++ y Diagrama de flujo, permite ingresar los precios de los diferen
 
 #### Funcionalidad
 
-float Nc_x, Nc_c=0, Nc_A=0, Nc_P, Nc_Vb, Nc_Viva, Nc_Vdes, Nc_Vf
+float Nc_x, Nc_c=0, Nc_A=0, Nc_P, Nc_Vb, Nc_Viva, Nc_Vdes, Nc_Vf;
 
 #### Salida
 
 while(Nc_c<Nc_P)
 
-Nc_Vf=Nc_Vb+Nc_Viva-Nc_Vdes       valor final a pagar
+Nc_Vf=Nc_Vb+Nc_Viva-Nc_Vdes         valor final a pagar
 
 
 ## INSTALACIÓN 
