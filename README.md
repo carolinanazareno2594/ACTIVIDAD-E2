@@ -66,7 +66,7 @@ int Nc_aa, Nc_ma, Nc_da, Nc_an, Nc_mn, Nc_dn, Nc_a, Nc_m, Nc_d
 
 if(Nc_da>Nc_dn)
 
-if(Nc_ma>Nc_mn)    La persona tiene:"<<Nc_a<<" años "<<Nc_m<< " meses "<<Nc_d<< " dias "
+if(Nc_ma>Nc_mn)    La edad de la persona 
 
 
 ### CALCULAR LA CANTIDAD DE MONEDA
