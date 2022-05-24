@@ -130,7 +130,7 @@ g++  CuentaMoneda.cpp -o CuentaMoneda
 
 #### SISTEMA OPERATIVO
 
-[![JXqHg.png](https://i.postimg.cc/YSdnnXXw/JXqHg.png)](https://postimg.cc/Y4mzjxKX)
+[![JXq-Hg-removebg-preview.png](https://i.postimg.cc/658dwXd8/JXq-Hg-removebg-preview.png)](https://postimg.cc/WhPD6xYV)
 
 #### EDITOR DE CÓDIGO
 [![vim-27718-1280.png](https://i.postimg.cc/65zvGDTw/vim-27718-1280.png)](https://postimg.cc/GH82WgkS)
