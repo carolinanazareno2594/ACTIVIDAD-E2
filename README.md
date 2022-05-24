@@ -2,7 +2,7 @@
 ## INFORMACIÓN DEL AUTOR
 
 
-[![logo-removebg-preview.png](https://i.postimg.cc/BbvX5Bhb/logo-removebg-preview.png)](https://postimg.cc/BLdS4Hff)
+[![logo1-sin-fondo.png](https://i.postimg.cc/nrvTfZ4N/logo1-sin-fondo.png)](https://postimg.cc/tn4FFKmz)
 
 `Autor: CarolinaNazareno`
 
@@ -104,7 +104,7 @@ float Nc_x, Nc_c=0, Nc_A=0, Nc_P, Nc_Vb, Nc_Viva, Nc_Vdes, Nc_Vf
 
 while(Nc_c<Nc_P)
 
-Nc_Vf=Nc_Vb+Nc_Viva-Nc_Vdes     valor final a pagar
+Nc_Vf=Nc_Vb+Nc_Viva-Nc_Vdes       valor final a pagar
 
 
 ## INSTALACIÓN 
