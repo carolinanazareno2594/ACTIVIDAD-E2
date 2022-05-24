@@ -1,9 +1,8 @@
 # Programas en c++ de NazarenoCarolina
 ## INFORMACIÓN DEL AUTOR
 
-
 [![logo1-sin-fondo.png](https://i.postimg.cc/nrvTfZ4N/logo1-sin-fondo.png)](https://postimg.cc/tn4FFKmz)
-
+                                           
 `Autor: CarolinaNazareno`
 
 `Correo:  carolina.nazareno.chila@utelvt.edu.ec`                                                    
