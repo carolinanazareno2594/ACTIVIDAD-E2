@@ -71,7 +71,7 @@ if(Nc_ma>Nc_mn)    La persona tiene:"<<Nc_a<<" años "<<Nc_m<< " meses "<<Nc_d<<
 ### CALCULAR LA CANTIDAD DE MONEDA
 
 #### Descripcion del problema
-Programa en c++ y Diagrama de flujo, permitirá ingresar varias mondas de 3 denominaciones diferentes (10ctv, 25ctv,50ctv) y mostrará cuantas monedas de cada denominación se han ingresado, como la cantidad de cada denominación; así como el monto total ingresado.
+Programa en c++ y Diagrama de flujo, permitirá ingresar varias mondas de 3 denominaciones diferentes (10ctv, 25ctv, 50ctv) y mostrará cuantas monedas de cada denominación se han ingresado, como la cantidad de cada denominación; así como el monto total ingresado.
 
 #### Funcionalidad
 
