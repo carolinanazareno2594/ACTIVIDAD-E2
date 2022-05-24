@@ -126,7 +126,7 @@ g++  CuentaMoneda.cpp -o CuentaMoneda
 ./ CuentaMoneda
 
 
-## DATO EXTRAS
+## DATOS  EXTRAS
 
 #### SISTEMA OPERATIVO
 
